@@ -1,0 +1,70 @@
+[{
+  "_id": {
+    "$oid": "64a7e38c6631515b2a206531"
+  },
+  "Name": "Version 1",
+  "Categorie": "Armoire",
+  "Bois": "frêne",
+  "Quantité":3,
+  "Entreprise": "BBois"
+},
+{
+  "_id": {
+    "$oid": "64a7e3cd6631515b2a206532"
+  },
+  "Name": "Version 2",
+  "Categorie": "Etagère",
+  "Fer": "acier",
+  "Quantité":3,
+  "Entreprise": "MetaLo"
+},
+{
+  "_id": {
+    "$oid": "64a7e3fe6631515b2a206533"
+  },
+  "Name": "Version 3",
+  "Categorie": "Etagère",
+  "Bois": "chêne",
+  "Quantité":3,
+  "Entreprise": "BBois"
+},
+{
+  "_id": {
+    "$oid": "64a7e40a6631515b2a206534"
+  },
+  "Name": "Version 4",
+  "Categorie": "Armoire",
+  "Bois": "noyer",
+  "Quantité":3,
+  "Entreprise": "BBois"
+},
+{
+  "_id": {
+    "$oid": "64a7e4206631515b2a206535"
+  },
+  "Name": "Version 5",
+  "Categorie": "Armoire",
+  "Fer": "inox",
+  "Quantité":3,
+  "Entreprise": "MetaLo"
+},
+{
+  "_id": {
+    "$oid": "64a7e43a6631515b2a206536"
+  },
+  "Name": "Version 6",
+  "Categorie": "Etagère",
+  "Fer": "aluminum",
+  "Quantité":3,
+  "Entreprise": "MetaLo"
+},
+{
+  "_id": {
+    "$oid": "64a7e44f6631515b2a206537"
+  },
+  "Name": "Version 7",
+  "Categorie": "Armoire",
+  "Plastique": "plastique",
+  "Quantité": 3,
+  "Entreprise": "pPlastique"
+}]
